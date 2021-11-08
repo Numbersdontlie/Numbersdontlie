@@ -16,7 +16,7 @@ I am an Industrial Engineer with experience analyzing business processes and dia
 * 🧠 I am currently learning HTML, CSS, ETL/ELT Process, Pipelines (Airflow) 
 * 👍🏽 Ask me about: Process Mining, Machine Learning, Data Analysis and Visualization, Business Process Analysis and Improvement 
 * 🤷🏽‍♂️ I´m looking for help with Data Engineering (Warehousing, Storage and Computation)
-* 🛰️ I am learning ho to make my own website to share my learning and connect with others 
+* 🛰️ I am learning how to make my own website to share my learning and connect with others 
 * 💬 I am currently improving my German (B1). Also sprechen Sie mit mir auf Deutsch, O si quieres hablame en Español 
 
 ## 🤝🏼 Contact me
