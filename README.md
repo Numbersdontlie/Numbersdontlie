@@ -13,7 +13,7 @@ I am an Industrial Engineer with experience analyzing business processes and dia
 ## 🤓 What I´m focusing on:
 
 * ⚙️ I am currently getting my hands dirty with the Python Process Mining library (PMP4Py)
-* 🧠 I am currently learning HTML, CSS, ETL/ELT Process, Pipelines (Airflow) 
+* 🧠 I am currently learning Data Engineering, ETL/ELT Process, Pipelines (Airflow + Prefect) 
 * 👍🏽 Ask me about: Process Mining, Machine Learning, Data Analysis and Visualization, Business Process Analysis and Improvement 
 * 🤷🏽‍♂️ I´m looking for help with Data Engineering (Warehousing, Storage and Computation)
 * 🛰️ I am learning how to make my own website to share my learning and connect with others 
