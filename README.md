@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Folks 👋, I'm Luis <br><br>Business Process Consultant with a curiosity for Process Mining, Data and IT system's. <br><br>I'm an Industrial Engineer with experience analyzing and improving business processes. <br>I got to know Process Mining, and it captivated my attention, to the point that it motivated <br>me to learn coding skills, programming languages and Database design.  <br><br>
+Hi Folks 👋, I'm Luis <br><br>Business Process Consultant with a curiosity for Process Mining, Data and IT system's. <br><br>I'm an Industrial Engineer with experience analyzing and improving business processes. <br>I got to know Process Mining, and it captivated my attention, to the point that it motivated me to learn coding skills, programming languages and Database design.  <br><br>
 
 
 ## 🌐 Socials:
