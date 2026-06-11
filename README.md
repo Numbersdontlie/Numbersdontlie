@@ -1,24 +1,142 @@
-# 💫 About Me:
-Hi Folks 👋, I'm Luis <br><br>Business Process Consultant with a curiosity for Process Mining, Data and IT system's. <br><br>I'm an Industrial Engineer with experience analyzing and improving business processes. <br>I got to know Process Mining, and it captivated my attention, to the point that it motivated me to learn coding skills, programming languages and Database design.  <br><br>
+<h1 align="center">Hi 👋, I'm Luis Perez</h1>
+<h3 align="center">Process Improvement Consultant | Process Mining Enthusiast | Data & Software Engineering Learner</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luisperezherrera) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Numbersdontlie&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Numbersdontlie&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Numbersdontlie&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Numbersdontlie&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<p align="center">
+Bridging Business Processes, Data and Technology: I understand processes through workshops with people and data analysis, improve them through technology, and make change happen through people and process standardization.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Numbersdontlie&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm an Industrial Engineer, Process Consultant, and lifelong learner passionate about improving how organizations work.
+
+My career began in business process improvement, helping companies optimize operations, design business processes, define KPIs, design and implement quality management systems, and drive organizational change.
+
+Over time, Process Mining sparked a deeper interest in data, analytics, and software engineering. Today, I combine consulting experience with technical skills in data modeling, SQL, programming, and process intelligence to better understand how business processes behave, how people use technology to work and understanding how this can be improved.
+
+What motivates me most is working at the intersection of:
+
+👥 People
+
+⚙️ Processes
+
+📊 Data Modeling
+
+💻 IT
+
+I believe meaningful transformation happens when all four are aligned.
+
+---
+
+## 🤝 Beyond Technology
+
+While I enjoy working with data, systems, and process analytics, I strongly believe that successful transformation is ultimately about people.
+
+My background includes a Master's in Neuro-Linguistic Programming (NLP), where I developed skills in:
+
+* Active Listening
+* Rapport Building
+* Facilitation
+* Stakeholder Communication
+* Change Management
+* Leadership and Coaching
+
+These skills have been invaluable throughout my consulting career, helping bridge the gap between business stakeholders, operational teams, and technical specialists.
+
+In addition, my experience at 42 Berlin has reinforced the importance of collaboration through its peer-to-peer learning model. Working in self-organized teams, conducting peer evaluations, and solving complex problems together has strengthened my ability to communicate, teach, receive feedback, and learn continuously from others in technical and complex topics.
+
+Technology enables change.
+
+People make it happen.
+
+---
+
+## 🎯 Current Interests
+
+🔍 Process Mining
+
+📊 Process Intelligence
+
+🏗️ Data Modeling
+
+⚙️ Process Automation & Optimization
+
+🤖 AI Engineering for Process Management
+
+📈 Operational Excellence
+
+💻 Software Engineering
+
+---
+
+## 🧠 What You'll Find Here
+
+This GitHub is my playground for exploring the intersection between:
+
+Business Processes ➜ Data ➜ Analytics ➜ Process Mining ➜ AI
+
+Projects may include:
+
+- SQL and Data Modeling
+- Data Engineering Pipelines
+- Process Mining Experiments
+- IoT Playground (Thingsboard)
+- Python Automation
+- C/C++ Projects from 4️⃣2️⃣ Berlin 🤓
+- Business Process Analytics
+- Process Intelligence Concepts
+
+---
+
+## 🛠️ Tech Stack
+
+### Process & Business
+
+![Celonis](https://img.shields.io/badge/Celonis-Process%20Mining-blue)
+![ARIS](https://img.shields.io/badge/ARIS-BPM-green)
+![Process Mining](https://img.shields.io/badge/Process-Mining-orange)
+![ISO9001](https://img.shields.io/badge/ISO-9001-lightgrey)
+
+### Data
+
+![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-blue)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+### Software Engineering
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+## 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Perez-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisperezherrera/)
+
+📍 Berlin, Germany
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Numbersdontlie&theme=material-palenight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Numbersdontlie&theme=material-palenight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Numbersdontlie&layout=compact&theme=material-palenight)
+
+---
+
+## 💡 Personal Motto
+
+> "Every business process leaves a digital footprint.  
+> The challenge is learning how to read it and how to extract value from it."
